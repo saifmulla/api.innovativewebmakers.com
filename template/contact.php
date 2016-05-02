@@ -35,6 +35,8 @@
 							</ul>
 							<input type="hidden" name="secret_key" value="">
 							<input type="hidden" name="admin_email" id="admin_email" value="<?= $admin_email ?>">
+							<input type="hidden" name="admin_name" id="admin_name" value="<?=$admin_name?>">
+							<input type="hidden" name="admin_site" id="admin_site" value="<?=$admin_website ?>">
 							<input name="submit" type="submit" value="Send Message">
 
 							
