@@ -40,7 +40,7 @@
 							<input name="submit" type="submit" value="Send Message">
 
 							
-						</fo
+						</form>
 			</div>
 </body>
 </html>
